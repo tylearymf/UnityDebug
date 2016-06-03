@@ -1,47 +1,50 @@
-﻿public enum DebugColor
+﻿/// <summary>
+/// 颜色值
+/// </summary>
+public enum DebugColor
 {
-    //
-    // 摘要:
-    //     黑色。
+    /// <summary>
+    /// 黑色
+    /// </summary>
     Black,
-    //
-    // 摘要:
-    //     藏蓝色。
+    /// <summary>
+    /// 藏蓝色
+    /// </summary>
     DarkBlue,
-    //
-    // 摘要:
-    //     深紫红色。
+    /// <summary>
+    /// 深紫红色
+    /// </summary>
     DarkMagenta,
-    //
-    // 摘要:
-    //     蓝色。
+    /// <summary>
+    /// 蓝色
+    /// </summary>
     Blue,
-    //
-    // 摘要:
-    //     绿色。
+    /// <summary>
+    /// 绿色
+    /// </summary>
     Green,
-    //
-    // 摘要:
-    //     青色（蓝绿色）。
+    /// <summary>
+    /// 青色（蓝绿色）
+    /// </summary>
     Cyan,
-    //
-    // 摘要:
-    //     红色。
+    /// <summary>
+    /// 红色
+    /// </summary>
     Red,
-    //
-    // 摘要:
-    //     紫红色。
+    /// <summary>
+    /// 紫红色
+    /// </summary>
     Magenta,
-    //
-    // 摘要:
-    //     黄色。
+    /// <summary>
+    /// 黄色
+    /// </summary>
     Yellow,
-    //
-    // 摘要:
-    //     白色。
+    /// <summary>
+    /// 白色
+    /// </summary>
     White,
-    //
-    // 摘要:
-    //     浅灰色。
+    /// <summary>
+    /// 浅灰色
+    /// </summary>
     Grey
 }
