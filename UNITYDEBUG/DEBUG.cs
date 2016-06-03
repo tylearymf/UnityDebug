@@ -8,7 +8,7 @@ public class DEBUG
         string text = "<color=" + color.ToString() + ">" + txt + "</color>";
         Debug.Log(text);
     }
-
+     
     public static void LogError(string txt, DebugColor color)
     {
         Debug.LogError("<color=" + color.ToString() + ">" + txt + "</color>");
